@@ -2,7 +2,7 @@
 
 Welcome to the Open Photo Roster building block.
 
-For more information please visit: ScholarWorks Release
+For more information please visit: ScholarWorks Release - http://scholarworks.gvsu.edu/oer_teaching/1
 
  Implementation steps:
 

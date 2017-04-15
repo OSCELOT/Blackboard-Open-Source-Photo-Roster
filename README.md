@@ -14,6 +14,8 @@ For more information please visit: ScholarWorks Release
 
 https://community.blackboard.com/thread/3192-beta-testers-for-a-photo-roster-building-block
 
+![Alt text](img.php2.png?raw=true "screenshot")
  
 ![Alt text](img.php.png?raw=true "screenshot")
  
+https://www.youtube.com/watch?v=2oZtXNFF2Xs

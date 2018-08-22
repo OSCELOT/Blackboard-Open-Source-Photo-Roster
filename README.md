@@ -6,16 +6,12 @@ For more information please visit: ScholarWorks Release - http://scholarworks.gv
 
  Implementation steps:
 
-1. Install the building block
+This version of the photo roster includes the Bb Avatars and Gravatar rosters.  Administrators can upload pictures to the Avatar system or allow users upload their own pictures.  The Gravatar system at gravatar.com allows users to associate pictures with their own photos.
 
-2. Copy your camppus id photos into /usr/local/blackboard/content/PHOTOS/
+To enable ID Photos in the building block please contact support@dataii.com.
 
-3. Post questions and comments on the Bb Community Thread:
+Post questions and comments on the Bb Community Thread:
 
 https://community.blackboard.com/thread/3192-beta-testers-for-a-photo-roster-building-block
 
-![Alt text](img.php2.png?raw=true "screenshot")
- 
-![Alt text](img.php.png?raw=true "screenshot")
- 
-https://www.youtube.com/watch?v=2oZtXNFF2Xs
+

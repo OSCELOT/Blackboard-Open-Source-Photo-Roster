@@ -10,8 +10,6 @@ This version of the photo roster includes the Bb Avatars and Gravatar rosters.  
 
 To enable ID Photos in the building block please contact support@dataii.com.
 
-Post questions and comments on the Bb Community Thread:
 
-https://community.blackboard.com/thread/3192-beta-testers-for-a-photo-roster-building-block
 
 

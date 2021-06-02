@@ -10,6 +10,8 @@ This version of the photo roster includes the Bb Avatars and Gravatar rosters.  
 
 To enable ID Photos in the building block please contact support@dataii.com.
 
+A Saas version of the system with LTI is available here: https://appcatalog.blackboard.com/details/class-dashboard-photo-roster/
+
 
 
 
